@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-18T00:46:10 GMT-04:00" name="Suite" finished-at="2023-07-18T00:46:51 GMT-04:00" duration-ms="40528">
+    <groups>
+    </groups>
+    <test started-at="2023-07-18T00:46:10 GMT-04:00" name="Test" finished-at="2023-07-18T00:46:51 GMT-04:00" duration-ms="40528">
+      <class name="testcases.TestCase1">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:testcases.TestCase1@b9b00e0]" started-at="2023-07-18T00:46:10 GMT-04:00" name="beforeSuite" finished-at="2023-07-18T00:46:10 GMT-04:00" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testcases.TestCase1@b9b00e0]" started-at="2023-07-18T00:46:10 GMT-04:00" name="beforeTest" finished-at="2023-07-18T00:46:10 GMT-04:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="setData()[pri:0, instance:testcases.TestCase1@b9b00e0]" started-at="2023-07-18T00:46:10 GMT-04:00" name="setData" finished-at="2023-07-18T00:46:10 GMT-04:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testcases.TestCase1@b9b00e0]" started-at="2023-07-18T00:46:10 GMT-04:00" name="beforeMethod" finished-at="2023-07-18T00:46:16 GMT-04:00" duration-ms="5973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testCase()[pri:0, instance:testcases.TestCase1@b9b00e0]" started-at="2023-07-18T00:46:16 GMT-04:00" name="testCase" finished-at="2023-07-18T00:46:51 GMT-04:00" duration-ms="34431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testcases.TestCase1@b9b00e0]" started-at="2023-07-18T00:46:51 GMT-04:00" name="afterMethod" finished-at="2023-07-18T00:46:51 GMT-04:00" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testcases.TestCase1@b9b00e0]" started-at="2023-07-18T00:46:51 GMT-04:00" name="afterTest" finished-at="2023-07-18T00:46:51 GMT-04:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:testcases.TestCase1@b9b00e0]" started-at="2023-07-18T00:46:51 GMT-04:00" name="afterSuite" finished-at="2023-07-18T00:46:51 GMT-04:00" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testcases.TestCase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
